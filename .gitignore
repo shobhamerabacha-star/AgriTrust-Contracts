@@ -4,7 +4,6 @@ Cargo.lock
 **/*.rs.bk
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -25,4 +24,4 @@ Thumbs.db
 node_modules/
 artifacts/
 cache/
-.env
+config.bat
